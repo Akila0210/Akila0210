@@ -1,5 +1,5 @@
 <h1 align="center">Olá! me chamo Áquila 👋<h1/>
-<h3>🌱 Estudando HTML5 e CSS3</h3>
+<h3>🌱 Estudando Front-end </h3>
 <h3>📫 Email para contato: aquila.medeirosof@gmail.com</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
